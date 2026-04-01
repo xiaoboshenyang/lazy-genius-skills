@@ -1,4 +1,4 @@
 {
     "tikhub_api_key": "YOUR_API_KEY_HERE",
-    "tikhub_base_url": "YOUR_BASE_URL_HERE"
+    "tikhub_base_url": "https://api.tikhub.io"
 }
